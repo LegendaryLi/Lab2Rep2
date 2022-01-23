@@ -13,7 +13,7 @@ Console.WriteLine("4 - </>");
 int var = Convert.ToInt32(Console.ReadLine());
     switch (var)
     {
-        /*case 1: c = a + b; Console.WriteLine("result:" + c); break;*/
+        case 1: c = a + b; Console.WriteLine("result:" + c); break;
         /*case 2: c = a - b; Console.WriteLine("result:" + c); break;*/
         /*case 3: c = a * b; Console.WriteLine("result:" + c); break;*/
         /*case 4: c = a / b; Console.WriteLine("result:" + c); break;*/
