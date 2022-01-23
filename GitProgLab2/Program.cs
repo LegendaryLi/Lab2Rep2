@@ -22,9 +22,13 @@ int var = Convert.ToInt32(Console.ReadLine());
         case 2: c = a - b; Console.WriteLine("result:" + c); break;
 >>>>>>> get_sub
         /*case 3: c = a * b; Console.WriteLine("result:" + c); break;*/
+<<<<<<< HEAD
 =======
         case 3: c = a * b; Console.WriteLine("result:" + c); break;
 >>>>>>> get_mult
         /*case 4: c = a / b; Console.WriteLine("result:" + c); break;*/
+=======
+        case 4: c = a / b; Console.WriteLine("result:" + c); break;
+>>>>>>> get_div
         default: Console.WriteLine("Этот ввод не определен"); break;
     }
