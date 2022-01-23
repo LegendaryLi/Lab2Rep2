@@ -1,0 +1,15 @@
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\bin\Debug\net6.0\GitProgLab2.exe
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\bin\Debug\net6.0\GitProgLab2.deps.json
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\bin\Debug\net6.0\GitProgLab2.runtimeconfig.json
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\bin\Debug\net6.0\GitProgLab2.dll
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\bin\Debug\net6.0\ref\GitProgLab2.dll
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\bin\Debug\net6.0\GitProgLab2.pdb
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\obj\Debug\net6.0\GitProgLab2.csproj.AssemblyReference.cache
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\obj\Debug\net6.0\GitProgLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\obj\Debug\net6.0\GitProgLab2.AssemblyInfoInputs.cache
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\obj\Debug\net6.0\GitProgLab2.AssemblyInfo.cs
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\obj\Debug\net6.0\GitProgLab2.csproj.CoreCompileInputs.cache
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\obj\Debug\net6.0\GitProgLab2.dll
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\obj\Debug\net6.0\ref\GitProgLab2.dll
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\obj\Debug\net6.0\GitProgLab2.pdb
+C:\Users\MemphisJuniorGod\source\repos\GitProgLab2\GitProgLab2\obj\Debug\net6.0\GitProgLab2.genruntimeconfig.cache
