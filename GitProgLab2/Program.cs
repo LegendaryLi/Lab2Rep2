@@ -1,7 +1,7 @@
 ﻿
 Console.WriteLine("Welcome to my little calculator 3000!");
 Console.WriteLine("Please entry A:");
-/*int a = Convert.ToInt32(Console.ReadLine());*/
+int a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Please entry B:");
 /*int b = Convert.ToInt32(Console.ReadLine());*/
 int c;

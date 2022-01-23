@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MemphisJuniorGod\\source\\repos\\GitProgLab2\\GitProgLab2\\GitProgLab2.csproj",
+      "projectUniqueName": "C:\\Users\\MemphisJuniorGod\\Desktop\\Lab2TRPO\\Lab2Rabota1\\GitProgLab2\\GitProgLab2.csproj",
       "projectName": "GitProgLab2",
-      "projectPath": "C:\\Users\\MemphisJuniorGod\\source\\repos\\GitProgLab2\\GitProgLab2\\GitProgLab2.csproj",
+      "projectPath": "C:\\Users\\MemphisJuniorGod\\Desktop\\Lab2TRPO\\Lab2Rabota1\\GitProgLab2\\GitProgLab2.csproj",
       "packagesPath": "C:\\Users\\MemphisJuniorGod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MemphisJuniorGod\\source\\repos\\GitProgLab2\\GitProgLab2\\obj\\",
+      "outputPath": "C:\\Users\\MemphisJuniorGod\\Desktop\\Lab2TRPO\\Lab2Rabota1\\GitProgLab2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
